@@ -1,4 +1,4 @@
-# node-pdfium-native
+# node-pdfium-native for Visual Studio 2015
 Native port of [PDFium](https://code.google.com/p/pdfium/) to [node.js](https://nodejs.org/), [iojs](https://iojs.org/en/index.html) and [Nw.js](http://nwjs.io/).
 The main motivation of this project is to render/convert a `PDF` format direct into `EMF` format, to be able to print on windows printer by using native [printer module](https://github.com/tojocky/node-printer).
 
