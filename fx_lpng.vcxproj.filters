@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng">
+      <UniqueIdentifier>{C373AD36-E5D2-29D5-1B25-40EA032E157A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\fx_lpng\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users">
+      <UniqueIdentifier>{E9F714C1-DA89-54E2-60CF-39FEB20BF756}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar">
+      <UniqueIdentifier>{6CA0B4E8-3004-0B2F-2846-D31EA5406415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar\AppData">
+      <UniqueIdentifier>{F852EB63-437C-846A-220F-8D9ED6DAEC1D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar\AppData\Roaming">
+      <UniqueIdentifier>{D51E5808-912B-5C70-4BB7-475D1DBFA067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar\AppData\Roaming\npm">
+      <UniqueIdentifier>{741E0E76-39B2-B1AB-9FA1-F1A20B16F295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar\AppData\Roaming\npm\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar\AppData\Roaming\npm\node_modules\node-gyp">
+      <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\rschaar\AppData\Roaming\npm\node_modules\node-gyp\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\third_party\fx_lpng\include\fx_png.h">
+      <Filter>..\third_party\fx_lpng\include</Filter>
+    </ClInclude>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_png.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngerror.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngget.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngmem.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngpread.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngread.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngrio.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngrtran.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngrutil.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngset.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngtrans.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngwio.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngwrite.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngwtran.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\fx_lpng\src\fx_pngwutil.c">
+      <Filter>..\third_party\fx_lpng\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rschaar\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>C:\Users\rschaar\AppData\Roaming\npm\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+  </ItemGroup>
+</Project>
